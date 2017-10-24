@@ -5,3 +5,5 @@ hello world
   {
   std::cout<<"hello"<<std::end;
   }
+///add by ray
+  /////////////////////////////////////
