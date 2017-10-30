@@ -1,7 +1,16 @@
+@ray add 2017/10/24
 # hello-world
-hello world
-#include<iostream>
-  int main()
+hello wsdsadorld
+#include<ios>
+  
+  sdasdasdasdsa
+  int mainisndfsdf()
   {
-  std::cout<<"hello"<<std::end;
+  std::cout<<"helfsafasdalo"<<std::end;
   }
+
+struct node
+{
+  int data;
+  node* next;
+}
